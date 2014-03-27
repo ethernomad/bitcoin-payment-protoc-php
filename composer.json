@@ -9,7 +9,7 @@
     {"name": "Jonathan Brown", "email": "jbrown@bluedroplet.com"}
   ],
   "require": {
-    "bluedroplet/Protobuf-PHP": "dev-master"
+    "centraldesktop/Protobuf-PHP": "dev-master"
   },
   "repositories": [
     {
