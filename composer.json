@@ -1,20 +1,9 @@
 {
   "name": "bluedroplet/bitcoin-payment-protoc-php",
-  "type": "library",
   "description": "Compilation of Bitcoin paymentrequest.proto to PHP.",
   "keywords": ["bitcoin", "php", "protoc"],
-  "homepage": "https://github.com/bluedroplet/bitcoin-payment-protoc-php",
   "license": "UNLICENSE",
-  "authors": [
-    {"name": "Jonathan Brown", "email": "jbrown@bluedroplet.com"}
-  ],
   "require": {
     "centraldesktop/protobuf-php": "dev-master"
-  },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/bluedroplet/Protobuf-PHP"
-    }
-  ]
+  }
 }
